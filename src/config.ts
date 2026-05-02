@@ -9,7 +9,7 @@ export interface SiteConfig {
 
 export const siteConfig: SiteConfig = {
   language: "en",
-  siteTitle: "LAVERA - Premium Laundry & Dry Cleaning Services",
+  siteTitle: "LAVESTO - Premium Laundry & Dry Cleaning Services",
   siteDescription: "Experience the finest laundry and dry cleaning services with LAVERA. Professional care for your garments, delivered to your doorstep.",
 };
 
@@ -28,7 +28,7 @@ export const heroConfig: HeroConfig = {
   heroImage: "/hero-laundry.png",
   heroImageAlt: "Professional laundry service representative holding fresh clean clothes",
   overlayText: "Cleaned by LAVERA",
-  brandName: "LAVERA",
+  brandName: "LAVESTO",
   navLinks: [
     { label: "Services", href: "#services" },
     { label: "How It Works", href: "#how-it-works" },
@@ -55,7 +55,7 @@ export interface IntroGridConfig {
 export const introGridConfig: IntroGridConfig = {
   titleLine1: "Premium Care",
   titleLine2: "for Every Garment",
-  description: "At LAVERA, we believe your clothes deserve the best treatment. From everyday wear to delicate fabrics, our expert team uses eco-friendly detergents and advanced techniques to ensure your garments look and feel their absolute best.",
+  description: "At LAVESTO, we believe your clothes deserve the best treatment. From everyday wear to delicate fabrics, our expert team uses eco-friendly detergents and advanced techniques to ensure your garments look and feel their absolute best.",
   portfolioImages: [
     { src: "/portfolio-1.jpg", alt: "Freshly folded laundry stack" },
     { src: "/portfolio-2.jpg", alt: "Professional dry cleaning process" },
@@ -98,7 +98,7 @@ export const featuredProjectsConfig: FeaturedProjectsConfig = {
       id: 1,
       title: "Wash & Fold",
       category: "Daily Laundry",
-      year: "2024",
+      year: "2026",
       image: "/service-wash-fold.jpg",
       description: "Convenient wash and fold service for your everyday laundry needs. We sort, wash, dry, and neatly fold your clothes with care.",
     },
@@ -106,7 +106,7 @@ export const featuredProjectsConfig: FeaturedProjectsConfig = {
       id: 2,
       title: "Dry Cleaning",
       category: "Professional Care",
-      year: "2024",
+      year: "2026",
       image: "/service-dry-cleaning.jpg",
       description: "Expert dry cleaning for delicate fabrics, suits, dresses, and special garments. Stain removal and pressing included.",
     },
@@ -114,7 +114,7 @@ export const featuredProjectsConfig: FeaturedProjectsConfig = {
       id: 3,
       title: "Ironing Service",
       category: "Finishing Touch",
-      year: "2024",
+      year: "2026",
       image: "/service-ironing.jpg",
       description: "Professional ironing to give your clothes that crisp, polished look. Perfect for business attire and formal wear.",
     },
@@ -122,7 +122,7 @@ export const featuredProjectsConfig: FeaturedProjectsConfig = {
       id: 4,
       title: "Express Delivery",
       category: "Same Day",
-      year: "2024",
+      year: "2026",
       image: "/service-express.jpg",
       description: "Need it fast? Our express service ensures your laundry is cleaned and delivered on the same day.",
     },
@@ -202,7 +202,7 @@ export interface WhyChooseMeConfig {
 
 export const whyChooseMeConfig: WhyChooseMeConfig = {
   subtitle: "Why Choose Us",
-  titleRegular: "The LAVERA",
+  titleRegular: "The LAVESTO",
   titleItalic: "Difference",
   statsLabel: "By The Numbers",
   stats: [
@@ -257,7 +257,7 @@ export const testimonialsConfig: TestimonialsConfig = {
       name: "Sarah Mitchell",
       role: "Business Executive",
       image: "/testimonial-1.jpg",
-      quote: "LAVERA has been a game-changer for my busy schedule. The pickup and delivery service is seamless, and my clothes always come back looking brand new. Highly recommend!",
+      quote: "LAVESTO has been a game-changer for my busy schedule. The pickup and delivery service is seamless, and my clothes always come back looking brand new. Highly recommend!",
     },
     {
       id: 2,
@@ -368,9 +368,9 @@ export interface FooterConfig {
 }
 
 export const footerConfig: FooterConfig = {
-  logoText: "LAVERA",
+  logoText: "LAVESTO",
   contactLabel: "Get in Touch",
-  email: "hello@lavera.com",
+  email: "hello@lavesto.com",
   locationText: "123 Clean Street\nNew York, NY 10001",
   navigationLabel: "Quick Links",
   navLinks: [
@@ -382,13 +382,13 @@ export const footerConfig: FooterConfig = {
   ],
   socialLabel: "Follow Us",
   socialLinks: [
-    { iconName: "Instagram", href: "https://instagram.com/lavera", label: "Instagram" },
-    { iconName: "Twitter", href: "https://twitter.com/lavera", label: "Twitter" },
-    { iconName: "Linkedin", href: "https://linkedin.com/company/lavera", label: "LinkedIn" },
-    { iconName: "Mail", href: "mailto:hello@lavera.com", label: "Email" },
+    { iconName: "Instagram", href: "https://instagram.com/lavesto", label: "Instagram" },
+    { iconName: "Twitter", href: "https://twitter.com/lavesto", label: "Twitter" },
+    { iconName: "Linkedin", href: "https://linkedin.com/company/lavesto", label: "LinkedIn" },
+    { iconName: "Mail", href: "mailto:hello@lavesto.com", label: "Email" },
   ],
   tagline: "Fresh clothes,\nhappy life.",
-  copyright: "© 2024 LAVERA. All rights reserved.",
+  copyright: "© 2026 LAVESTO. All rights reserved.",
   bottomLinks: [
     { label: "Privacy Policy", href: "#privacy" },
     { label: "Terms of Service", href: "#terms" },
